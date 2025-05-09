@@ -11,13 +11,7 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the fam
  - [Key Insights](#Key Insights)
 
 
-
-
-
-
-
-
-
+## Project Objectives
 
     Understand the structure and content of the Titanic dataset.
 
@@ -41,17 +35,13 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the fam
 
     Jupyter Notebook for analysis
 
-Key Insights:
+## Key Insights:
 - Females had a higher chance of survival compared to males.
 - Passengers in 1st class had higher survival rates.
 - Younger passengers, especially children, had better survival rates.
 - Passengers traveling alone were less likely to survive.
 - Ticket fare and family size showed some influence on survival.
 
-📁 Dataset
 
-The dataset used is the Titanic dataset provided by Kaggle, which includes:
-
-    PassengerId, Name, Sex, Age, Pclass, Ticket, Fare, Cabin, Embarked, etc.
 
     Survival status (0 = No, 1 = Yes)
