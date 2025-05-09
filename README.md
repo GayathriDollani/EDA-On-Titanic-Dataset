@@ -6,34 +6,26 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the fam
 
 ## Table of Contents
 
-1. [Project Objectives].(#Project objectives)
-2. [Tools & Technologies Used].(#Tools & Technologies)
-3. [Key Insights].(#Key Insights)
+1. [Project Objectives](#project-objectives)  
+2. [Tools & Technologies Used](#tools--technologies-used)  
+3. [Key Insights](#key-insights)
 
 
 ## Project Objectives
 
-    Understood the structure and content of the Titanic dataset.
-
-    Cleaned and preprocessed the data by handling missing values, outliers, and data types.
-
-    Explored key features like age, gender, passenger class, fare, and embarkation point.
-
-    Visualized distributions and relationships using graphs and charts.
-
-    Identified patterns or correlations between features and survival rate.
+- Understood the structure and content of the Titanic dataset.
+- Cleaned and preprocessed the data by handling missing values, outliers, and data types.
+- Explored key features like age, gender, passenger class, fare, and embarkation point.
+- Visualized distributions and relationships using graphs and charts.
+- Identified patterns or correlations between features and survival rate.
 
 ## Tools & Technologies Used
 
-    Python
-
-    Pandas for data manipulation
-
-    NumPy for numerical operations
-
-    Matplotlib and Seaborn for data visualization
-
-    Jupyter Notebook for analysis
+- Python
+- Pandas for data manipulation
+- NumPy for numerical operations
+- Matplotlib and Seaborn for data visualization
+- Jupyter Notebook for analysis
 
 ## Key Insights:
 - Females had a higher chance of survival compared to males.
@@ -41,6 +33,10 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the fam
 - Younger passengers, especially children, had better survival rates.
 - Passengers traveling alone were less likely to survive.
 - Ticket fare and family size showed some influence on survival.
+
+
+
+
 
 
 
