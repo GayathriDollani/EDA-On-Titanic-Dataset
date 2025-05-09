@@ -1,14 +1,14 @@
 # Project Name
 
-Exploratory Data Analysis on the Titanic Dataset
+### Exploratory Data Analysis on the Titanic Dataset
 
 This project performs a comprehensive Exploratory Data Analysis (EDA) on the famous Titanic dataset from Kaggle. The goal is to uncover patterns and insights that help understand the factors affecting passenger survival.
 
 ## Table of Contents
 
- - [Project Objectives](#Project objectives)
- - [Tools & Technologies Used](#Tools & Technologies)
- - [Key Insights](#Key Insights)
+ - [Project Objectives].(#Project objectives)
+ - [Tools & Technologies Used].(#Tools & Technologies)
+ - [Key Insights].(#Key Insights)
 
 
 ## Project Objectives
