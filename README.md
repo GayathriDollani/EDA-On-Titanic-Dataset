@@ -6,22 +6,22 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the fam
 
 ## Table of Contents
 
- - [Project Objectives].(#Project objectives)
- - [Tools & Technologies Used].(#Tools & Technologies)
- - [Key Insights].(#Key Insights)
+1. [Project Objectives].(#Project objectives)
+2. [Tools & Technologies Used].(#Tools & Technologies)
+3. [Key Insights].(#Key Insights)
 
 
 ## Project Objectives
 
-    Understand the structure and content of the Titanic dataset.
+    Understood the structure and content of the Titanic dataset.
 
-    Clean and preprocess the data by handling missing values, outliers, and data types.
+    Cleaned and preprocessed the data by handling missing values, outliers, and data types.
 
-    Explore key features like age, gender, passenger class, fare, and embarkation point.
+    Explored key features like age, gender, passenger class, fare, and embarkation point.
 
-    Visualize distributions and relationships using graphs and charts.
+    Visualized distributions and relationships using graphs and charts.
 
-    Identify patterns or correlations between features and survival rate.
+    Identified patterns or correlations between features and survival rate.
 
 ## Tools & Technologies Used
 
